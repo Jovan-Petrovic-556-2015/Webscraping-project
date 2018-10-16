@@ -4,4 +4,4 @@ The little project i did for retrieving data from html page *polovniautomobili.c
 
 Requirements: 
 * python 3
-* Beautiful Soup library
+* Beautiful Soup library for python 3
